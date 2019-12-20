@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Brain It On!</title>
+	<release-date>25 June, 2015</release-date>
+	<website>http://brainitongame.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Apple App Store</name>
+			<link>https://itunes.apple.com/app/brain-it-on!/id985367692</link>
+		</platform>				<platform>			<name>Google Play Store</name>			<link>https://play.google.com/store/apps/details?id=com.orbital.brainiton</link>		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency></currency>
+			<value>Free</value>
+		</price>
+	</prices>
+
+	<description>
+	Deceptively challenging puzzles for your brain!		Draw shapes to solve challenging physics puzzles. They're not as easy as they look. Care to give one a try?	</description>
+
+	<history>	Brain It On! is inspired by many great physics puzzlers. It aims to improve the ease of drawing physics shapes while combining this with deceptively 	challenging puzzles	that can be solved in different ways. 	</history>
+	<features>
+		<feature>Dozens of brain busting puzzles, with more being added all the time.</feature>
+		<feature>Compete with your friends for the Brain It On! crown.</feature>
+		<feature>Multiple ways to solve each puzzle, can you find the best solution?</feature>
+		<feature>Share your unique solutions and compare with your friends.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>DLSxpePtxss</youtube>
+			<!--vimeo></vimeo-->
+		</trailer>
+		<!--trailer>
+			<name>Gameplay Video</name>
+			<youtube>5hz9NEZogQ8</youtube-->
+			<!--vimeo></vimeo-->
+		<!--/trailer-->
+	</trailers>
+	
+	<!--awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards-->
+	
+	<!--quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	</quotes-->
+	
+	<additionals>
+		<additional>
+			<title>BuzzFeed Article</title>
+			<description>31 iPhone Games You Should Be Playing Already</description>
+			<link>http://www.buzzfeed.com/maitlandquitmeyer/underrated-iphone-games-you-should-be-playing#.ermYP3J1k</link>
+		</additional>				<additional>			<title>Pocket Gamer Article</title>			<description>Brain It On is a clever physics-based problem solving freebie</description>			<link>http://bit.ly/1nwK34N</link>			<linktitle>www.pocketgamer.co.uk</linktitle>		</additional>				<additional>			<title>Indie Game Buzz Review</title>			<description></description>			<link>http://indiegamebuzz.com/brain-it-on-review/</link>		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Aaron Lake</person>
+			<role>Developer, Game Designer</role>
+		</credit>
+		<credit>
+			<person>Kevin MacLeod</person>
+			<role>Music, 'Rolling at 5' (incompetech.com)</role>
+		</credit>
+	</credits>
+</game>

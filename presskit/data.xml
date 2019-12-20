@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>	
+	<title>Orbital Nine</title>
+	<founding-date>November 1, 2014</founding-date>
+	<website>http://orbitalnine.com/</website>
+	<based-in>Vancouver, Canada</based-in>
+	
+	<press-contact>press-contact@orbitalnine.com</press-contact>
+	<phone></phone>
+	<address>
+		<line>989 Nelson Street</line>
+		<line>Suite 510</line>
+		<line>Vancouver, BC, Canada</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter.com/orbitalnine</name>
+			<link>http://twitter.com/orbitalnine/</link>
+		</social>
+		<social>
+			<name>facebook.com/brainitongame</name>
+			<link>http://www.facebook.com/brainitongame</link>
+		</social>
+		<social>
+			<name>Google+</name>
+			<link>plus.google.com/113972443700844475050/posts</link>
+		</social>
+	</socials>
+
+	<description>	
+		Orbital Nine is a small indie developer making games that make you think. 
+		Our first game is Brain It On!, deceptively challenging puzzles for your brain.
+		We hope you like it.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Orbital Nine was founded by Aaron Lake in Late 2014. Aaron has been making mobile, PC, and console games for over 12 years. In 2014 he decided
+			to quit his job making games, so that he could make games more than full-time. Full-time was just not enough, now he makes games while he sleeps, while
+			he showers, and while he eats his morning cereal.
+			</text>
+		</history>
+		<history>
+			<header>Middle history</header>
+			<text>This is where we are now, more to come soon...</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Brain It On!</name>
+			<youtube>DLSxpePtxss</youtube>
+			<!--vimeo></vimeo-->
+		</trailer>
+	</trailers>
+	
+	<!--awards>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 2015</info>
+		</award>
+	</awards-->
+	
+	<!--quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes-->
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<!--additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals-->
+	
+	<credits>
+		<credit>
+			<person>Aaron Lake</person>
+			<role>Developer, Game Designer</role>
+		</credit>
+		<credit>
+			<person>Kevin MacLeod</person>
+			<website>incompetech.com</website>
+			<role>Music</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>press-contact@orbitalnine.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/OrbitalNine</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/brainitongame/</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>brainitongame.com</link>
+		</contact>
+	</contacts>
+</game>
