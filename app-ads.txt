@@ -20,7 +20,7 @@ algorix.co, 54616, RESELLER
 google.com, pub-5118780499327462, RESELLER
 telaria.com, rwd19-1003502, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1003502, RESELLER, 1a4e959a1b50034a
-ironsrc.com, 9643, Direct , 79929e88b2ba73bc
+ironsrc.com, 131036, Direct , 79929e88b2ba73bc
 advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
 appnexus.com, 1752, RESELLER, f5ab79cb980f11d1
