@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "WY4TVTBLLQ.com.orbital.brainiton"
+        ],
+        "components": [
+          {
+            "/": "/brainiton/*",
+            "comment": "Matches all paths under /brainiton/"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "985367692"
+    ]
+  }
+}
